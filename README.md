@@ -6,8 +6,8 @@ This repository contains a collection of SQL queries for analyzing NBA player st
 
 📊 Features & Insights
 
-✅ Identify players who played all 82 games in a season
-✅ Find the top 25 scorers in NBA history
+✅ Identify players who played all 82 games in a season < br / >
+✅ Find the top 25 scorers in NBA history < br / >
 ✅ Analyze which positions commit the most fouls and turnovers
 ✅ Compare LeBron James vs. Michael Jordan across various stats
 ✅ Track the evolution of three-pointers since their introduction
