@@ -5,6 +5,7 @@ This repository contains SQL queries for analyzing NBA player statistics, coveri
 This repository contains a collection of SQL queries for analyzing NBA player statistics using datasets such as player_totals and player_award_shares. The queries cover a wide range of data analysis techniques, including aggregation, filtering, joins, and ranking, to uncover key insights about player performance, awards, and historical trends. The Datasets were taken from Kaggle.com from Sumitro Datta. 
 
 📊 Features & Insights
+
 ✅ Identify players who played all 82 games in a season
 ✅ Find the top 25 scorers in NBA history
 ✅ Analyze which positions commit the most fouls and turnovers
