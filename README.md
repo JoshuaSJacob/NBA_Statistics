@@ -8,28 +8,28 @@ This repository contains a collection of SQL queries for analyzing NBA player st
 
 ✅ Identify players who played all 82 games in a season <br />
 ✅ Find the top 25 scorers in NBA history <br />
-✅ Analyze which positions commit the most fouls and turnovers
-✅ Compare LeBron James vs. Michael Jordan across various stats
-✅ Track the evolution of three-pointers since their introduction
-✅ Discover the most efficient passers and assist-to-turnover leaders
-✅ Identify players who improved after being traded
-✅ Find youngest award winners (excluding Rookie of the Year)
+✅ Analyze which positions commit the most fouls and turnovers<br />
+✅ Compare LeBron James vs. Michael Jordan across various stats<br />
+✅ Track the evolution of three-pointers since their introduction<br />
+✅ Discover the most efficient passers and assist-to-turnover leaders<br />
+✅ Identify players who improved after being traded<br />
+✅ Find youngest award winners (excluding Rookie of the Year)<br />
 ✅ Analyze players who led their teams in points, assists, rebounds, steals, and blocks
 
-🛠️ SQL Concepts Used
-🔹 Aggregation & Grouping (SUM, COUNT, AVG, GROUP BY)
-🔹 Joins & Subqueries (INNER JOIN, LEFT JOIN, COALESCE)
-🔹 Filtering & Ordering (WHERE, HAVING, ORDER BY, LIMIT)
-🔹 NULL Handling & Conditional Expressions (NULLIF, CASE, STRING_AGG)
+🛠️ SQL Concepts Used<br />
+🔹 Aggregation & Grouping (SUM, COUNT, AVG, GROUP BY)<br />
+🔹 Joins & Subqueries (INNER JOIN, LEFT JOIN, COALESCE)<br />
+🔹 Filtering & Ordering (WHERE, HAVING, ORDER BY, LIMIT)<br />
+🔹 NULL Handling & Conditional Expressions (NULLIF, CASE, STRING_AGG)<br />
 🔹 Data Ranking & Performance Comparisons
 
-📌 How to Use
-https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data
-Download "Player Award Shares" and "Player Totals" and name the tables properly.
-Run the queries in a SQL-compatible database (PostgreSQL, MySQL, SQLite, etc.).
+📌 How to Use<br />
+https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data<br />
+Download "Player Award Shares" and "Player Totals" and name the tables properly.<br />
+Run the queries in a SQL-compatible database (PostgreSQL, MySQL, SQLite, etc.).<br />
 I used PostgreSQL and some syntax will need to be changed if using another program.
 
-🚀 Future Improvements
+🚀 Future Improvements<br />
 Integrate visualization tools for better data representation
 
 📢 Feel free to suggest improvements!
